@@ -5,5 +5,19 @@
 }
 
 body {
-  background-color: aqua;
+  background-color: salmon;
+}
+
+.important {
+  
+}
+
+.box {
+  border: 10px;
+  border-color: black;
+  border-style: dotted;
+}
+
+div {
+  background-color: lightpink ;
 }
