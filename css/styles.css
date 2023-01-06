@@ -2,6 +2,10 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  border: 5px;
+  border-color: bisque;
+  border-style: dotted;
+  padding: 2%;
 }
 
 body {
@@ -12,6 +16,7 @@ div {
   border: 10px;
   border-color: black;
   border-style: solid;
+  margin: 10px;
 }
 
 div {
@@ -24,4 +29,8 @@ p {
 
 a {
   font-size: large;
+}
+
+span {
+  font-weight: bold;
 }
