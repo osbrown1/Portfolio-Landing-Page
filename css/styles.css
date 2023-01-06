@@ -8,16 +8,20 @@ body {
   background-color: salmon;
 }
 
-.important {
-  
-}
-
-.box {
+div {
   border: 10px;
   border-color: black;
-  border-style: dotted;
+  border-style: solid;
 }
 
 div {
   background-color: lightpink ;
+}
+
+p {
+  font-size: large;
+}
+
+a {
+  font-size: large;
 }
