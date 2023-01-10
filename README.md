@@ -17,8 +17,7 @@ _{This website allows the user to peruse my Portfolio landing Page in order to g
 
 * _Clone this repository to your desktop._
 * _Click on the HTML document_
-* _Click here to see the site on Guthub Pages https://osbrown1.github.io/Portfolio-Landing-Page/index.html
-
+* _Click here to see the site on Guthub Pages https://osbrown1.github.io/Portfolio-Landing-Page 
 
 
 ## Known Bugs
